@@ -1,0 +1,21 @@
+/* === GENERAL === */
+body {
+	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
+	font-size: 16px;
+	background: url('../img/tile.jpg') top left repeat;
+    margin-top: 50px;
+}
+
+/* === SECTIONS === */
+#login-btn,#signup-btn,#signout-btn {
+    margin-right: 20px;
+}
+
+#signout-btn {
+	margin-left:20px;
+}
+
+.navbar {
+	margin-bottom: 30px;
+
+}

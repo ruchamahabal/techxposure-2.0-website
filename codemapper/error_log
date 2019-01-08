@@ -1,0 +1,4 @@
+[05-Jan-2019 02:54:45 UTC] PHP Notice:  Undefined index: user_score in /home/w6wvt4zoeb1i/public_html/codemapper/score-page.php on line 30
+[05-Jan-2019 02:54:45 UTC] PHP Notice:  Undefined index: time in /home/w6wvt4zoeb1i/public_html/codemapper/score-page.php on line 31
+[05-Jan-2019 02:54:45 UTC] PHP Notice:  Undefined index: compilationCalls in /home/w6wvt4zoeb1i/public_html/codemapper/score-page.php on line 32
+[05-Jan-2019 02:54:45 UTC] PHP Notice:  Undefined index: hidden in /home/w6wvt4zoeb1i/public_html/codemapper/score-page.php on line 33
